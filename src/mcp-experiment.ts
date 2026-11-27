@@ -1,1 +1,1 @@
-﻿export let x: number = 'a';
+﻿export let x: number = 0;
